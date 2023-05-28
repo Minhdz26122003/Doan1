@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="DataSet1xsd" targetNamespace="http://tempuri.org/DataSet1xsd.xsd" xmlns:mstns="http://tempuri.org/DataSet1xsd.xsd" xmlns="http://tempuri.org/DataSet1xsd.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="DataSet1xsd" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:Generator_UserDSName="DataSet1xsd" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="DataSet1xsd">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="CTNhapNL" msprop:Generator_RowClassName="CTNhapNLRow" msprop:Generator_RowEvHandlerName="CTNhapNLRowChangeEventHandler" msprop:Generator_RowDeletedName="CTNhapNLRowDeleted" msprop:Generator_RowDeletingName="CTNhapNLRowDeleting" msprop:Generator_RowEvArgName="CTNhapNLRowChangeEvent" msprop:Generator_TablePropName="CTNhapNL" msprop:Generator_RowChangedName="CTNhapNLRowChanged" msprop:Generator_UserTableName="CTNhapNL" msprop:Generator_RowChangingName="CTNhapNLRowChanging" msprop:Generator_TableClassName="CTNhapNLDataTable" msprop:Generator_TableVarName="tableCTNhapNL">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="Maphieunhap" msprop:Generator_UserColumnName="Maphieunhap" msprop:Generator_ColumnPropNameInTable="MaphieunhapColumn" msprop:Generator_ColumnPropNameInRow="Maphieunhap" msprop:Generator_ColumnVarNameInTable="columnMaphieunhap" type="xs:string" minOccurs="0" />
+              <xs:element name="Manguyenlieu" msprop:Generator_UserColumnName="Manguyenlieu" msprop:Generator_ColumnPropNameInTable="ManguyenlieuColumn" msprop:Generator_ColumnPropNameInRow="Manguyenlieu" msprop:Generator_ColumnVarNameInTable="columnManguyenlieu" type="xs:string" minOccurs="0" />
+              <xs:element name="Tennguyenlieu" msprop:Generator_UserColumnName="Tennguyenlieu" msprop:Generator_ColumnPropNameInTable="TennguyenlieuColumn" msprop:Generator_ColumnPropNameInRow="Tennguyenlieu" msprop:Generator_ColumnVarNameInTable="columnTennguyenlieu" type="xs:string" minOccurs="0" />
+              <xs:element name="Soluong" msprop:Generator_UserColumnName="Soluong" msprop:Generator_ColumnPropNameInTable="SoluongColumn" msprop:Generator_ColumnPropNameInRow="Soluong" msprop:Generator_ColumnVarNameInTable="columnSoluong" type="xs:string" minOccurs="0" />
+              <xs:element name="Dongia" msprop:Generator_UserColumnName="Dongia" msprop:Generator_ColumnPropNameInTable="DongiaColumn" msprop:Generator_ColumnPropNameInRow="Dongia" msprop:Generator_ColumnVarNameInTable="columnDongia" type="xs:string" minOccurs="0" />
+              <xs:element name="Thanhtien" msprop:Generator_UserColumnName="Thanhtien" msprop:Generator_ColumnPropNameInTable="ThanhtienColumn" msprop:Generator_ColumnPropNameInRow="Thanhtien" msprop:Generator_ColumnVarNameInTable="columnThanhtien" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="Nhapnguyenlieu" msprop:Generator_RowEvHandlerName="NhapnguyenlieuRowChangeEventHandler" msprop:Generator_RowDeletedName="NhapnguyenlieuRowDeleted" msprop:Generator_RowDeletingName="NhapnguyenlieuRowDeleting" msprop:Generator_RowEvArgName="NhapnguyenlieuRowChangeEvent" msprop:Generator_TablePropName="Nhapnguyenlieu" msprop:Generator_RowChangedName="NhapnguyenlieuRowChanged" msprop:Generator_RowChangingName="NhapnguyenlieuRowChanging" msprop:Generator_TableClassName="NhapnguyenlieuDataTable" msprop:Generator_RowClassName="NhapnguyenlieuRow" msprop:Generator_TableVarName="tableNhapnguyenlieu" msprop:Generator_UserTableName="Nhapnguyenlieu">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="Maphieunhap" msprop:Generator_ColumnPropNameInRow="Maphieunhap" msprop:Generator_ColumnPropNameInTable="MaphieunhapColumn" msprop:Generator_ColumnVarNameInTable="columnMaphieunhap" msprop:Generator_UserColumnName="Maphieunhap" type="xs:string" minOccurs="0" />
+              <xs:element name="Mancc" msprop:Generator_ColumnPropNameInRow="Mancc" msprop:Generator_ColumnPropNameInTable="ManccColumn" msprop:Generator_ColumnVarNameInTable="columnMancc" msprop:Generator_UserColumnName="Mancc" type="xs:string" minOccurs="0" />
+              <xs:element name="Manhanvien" msprop:Generator_ColumnPropNameInRow="Manhanvien" msprop:Generator_ColumnPropNameInTable="ManhanvienColumn" msprop:Generator_ColumnVarNameInTable="columnManhanvien" msprop:Generator_UserColumnName="Manhanvien" type="xs:string" minOccurs="0" />
+              <xs:element name="Ngay" msprop:Generator_ColumnPropNameInRow="Ngay" msprop:Generator_ColumnPropNameInTable="NgayColumn" msprop:Generator_ColumnVarNameInTable="columnNgay" msprop:Generator_UserColumnName="Ngay" type="xs:string" minOccurs="0" />
+              <xs:element name="Tongtien" msprop:Generator_ColumnPropNameInRow="Tongtien" msprop:Generator_ColumnPropNameInTable="TongtienColumn" msprop:Generator_ColumnVarNameInTable="columnTongtien" msprop:Generator_UserColumnName="Tongtien" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+    <xs:unique name="CTNhapNLKey1">
+      <xs:selector xpath=".//mstns:CTNhapNL" />
+      <xs:field xpath="mstns:Maphieunhap" />
+      <xs:field xpath="mstns:Manguyenlieu" />
+    </xs:unique>
+    <xs:unique name="NhapnguyenlieuKey1">
+      <xs:selector xpath=".//mstns:Nhapnguyenlieu" />
+      <xs:field xpath="mstns:Maphieunhap" />
+    </xs:unique>
+  </xs:element>
+  <xs:annotation>
+    <xs:appinfo>
+      <msdata:Relationship name="Nhapnguyenlieu_CTNhapNL" msdata:parent="Nhapnguyenlieu" msdata:child="CTNhapNL" msdata:parentkey="Maphieunhap" msdata:childkey="Maphieunhap" msprop:Generator_UserParentTable="Nhapnguyenlieu" msprop:Generator_UserChildTable="CTNhapNL" msprop:Generator_RelationVarName="relationNhapnguyenlieu_CTNhapNL" msprop:Generator_UserRelationName="Nhapnguyenlieu_CTNhapNL" msprop:Generator_ChildPropName="GetCTNhapNLRows" msprop:Generator_ParentPropName="NhapnguyenlieuRow" />
+    </xs:appinfo>
+  </xs:annotation>
+</xs:schema>

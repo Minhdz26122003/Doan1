@@ -1,0 +1,36 @@
+C:\Users\DELL\source\repos\DoAn1\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\DoAn1\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\DoAn1\BUS\bin\Debug\BUS.dll
+C:\Users\DELL\source\repos\DoAn1\BUS\bin\Debug\BUS.pdb
+C:\Users\DELL\source\repos\DoAn1\BUS\bin\Debug\DAL.dll
+C:\Users\DELL\source\repos\DoAn1\BUS\bin\Debug\DTO.dll
+C:\Users\DELL\source\repos\DoAn1\BUS\bin\Debug\DAL.pdb
+C:\Users\DELL\source\repos\DoAn1\BUS\bin\Debug\DTO.pdb
+C:\Users\DELL\source\repos\DoAn1\BUS\obj\Debug\BUS.csproj.CopyComplete
+C:\Users\DELL\source\repos\DoAn1\BUS\obj\Debug\BUS.dll
+C:\Users\DELL\source\repos\DoAn1\BUS\obj\Debug\BUS.pdb
+C:\Users\DELL\source\repos\14. NGUYENNGOCMIINH_10121192_Project1\BUS\bin\Debug\BUS.dll
+C:\Users\DELL\source\repos\14. NGUYENNGOCMIINH_10121192_Project1\BUS\bin\Debug\BUS.pdb
+C:\Users\DELL\source\repos\14. NGUYENNGOCMIINH_10121192_Project1\BUS\bin\Debug\DAL.dll
+C:\Users\DELL\source\repos\14. NGUYENNGOCMIINH_10121192_Project1\BUS\bin\Debug\DTO.dll
+C:\Users\DELL\source\repos\14. NGUYENNGOCMIINH_10121192_Project1\BUS\bin\Debug\DAL.pdb
+C:\Users\DELL\source\repos\14. NGUYENNGOCMIINH_10121192_Project1\BUS\bin\Debug\DTO.pdb
+C:\Users\DELL\source\repos\14. NGUYENNGOCMIINH_10121192_Project1\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\14. NGUYENNGOCMIINH_10121192_Project1\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\14. NGUYENNGOCMIINH_10121192_Project1\BUS\obj\Debug\BUS.csproj.CopyComplete
+C:\Users\DELL\source\repos\14. NGUYENNGOCMIINH_10121192_Project1\BUS\obj\Debug\BUS.dll
+C:\Users\DELL\source\repos\14. NGUYENNGOCMIINH_10121192_Project1\BUS\obj\Debug\BUS.pdb
+C:\Users\DELL\source\repos\14.Nguyễn Ngọc Minh_10121192_125215_Đồ Án 1\BUS\bin\Debug\BUS.dll
+C:\Users\DELL\source\repos\14.Nguyễn Ngọc Minh_10121192_125215_Đồ Án 1\BUS\bin\Debug\BUS.pdb
+C:\Users\DELL\source\repos\14.Nguyễn Ngọc Minh_10121192_125215_Đồ Án 1\BUS\bin\Debug\DAL.dll
+C:\Users\DELL\source\repos\14.Nguyễn Ngọc Minh_10121192_125215_Đồ Án 1\BUS\bin\Debug\DTO.dll
+C:\Users\DELL\source\repos\14.Nguyễn Ngọc Minh_10121192_125215_Đồ Án 1\BUS\bin\Debug\DAL.pdb
+C:\Users\DELL\source\repos\14.Nguyễn Ngọc Minh_10121192_125215_Đồ Án 1\BUS\bin\Debug\DTO.pdb
+C:\Users\DELL\source\repos\14.Nguyễn Ngọc Minh_10121192_125215_Đồ Án 1\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\14.Nguyễn Ngọc Minh_10121192_125215_Đồ Án 1\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\14.Nguyễn Ngọc Minh_10121192_125215_Đồ Án 1\BUS\obj\Debug\BUS.csproj.CopyComplete
+C:\Users\DELL\source\repos\14.Nguyễn Ngọc Minh_10121192_125215_Đồ Án 1\BUS\obj\Debug\BUS.dll
+C:\Users\DELL\source\repos\14.Nguyễn Ngọc Minh_10121192_125215_Đồ Án 1\BUS\obj\Debug\BUS.pdb
+C:\Users\DELL\source\repos\14.Nguyễn Ngọc Minh_10121192_125215_Đồ Án 1\BUS\bin\Debug\OfficeOpenXml.Core.ExcelPackage.dll
+C:\Users\DELL\source\repos\14.Nguyễn Ngọc Minh_10121192_125215_Đồ Án 1\BUS\bin\Debug\System.IO.Packaging.dll
+C:\Users\DELL\source\repos\14.Nguyễn Ngọc Minh_10121192_125215_Đồ Án 1\BUS\bin\Debug\OfficeOpenXml.Core.ExcelPackage.pdb
